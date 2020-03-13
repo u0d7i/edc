@@ -8,6 +8,7 @@ There are several organisational levels:
 - backpack
 
 For keychain, mini carabiners are used to easily attach/detach stuff:
+![Carabiners](img/carabiners.png?raw=true "Carabiners")
 
 "Sets" are organised in Oxford cloth zipper bags:
 ![Zipper](img/zipper.png?raw=true "Zipper")
