@@ -17,5 +17,6 @@ For keychain, mini carabiners are used to easily attach/detach stuff:
 
 - keychain 2 screwdriver set (flat + phillips):
 ![Screwdriver](img/screwdriver.png?raw=true "Screwdriver")
-- keychain knife/cutter
+- keychain knife/cutter:
+![Zip Blade](img/zipblade.png?raw=true "Zip Blade")
 - 32G USB3 flash drive
