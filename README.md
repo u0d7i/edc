@@ -7,9 +7,13 @@ There are several organisational levels:
 - handbag
 - backpack
 
+For keychain, mini carabiners are used to easily attach/detach stuff:
+
+"Sets" are organised in Oxford cloth zipper bags:
+![Zipper](img/zipper.png?raw=true "Zipper")
+
 ## Keychain
 
-Use mini carabiners to easily attach/detach stuff.
 
 - keychain 2 screwdriver set (flat + phillips)
 - keychain knife/cutter
