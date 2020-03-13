@@ -20,3 +20,4 @@ For keychain, mini carabiners are used to easily attach/detach stuff:
 - keychain knife/cutter:
 ![Zip Blade](img/zipblade.png?raw=true "Zip Blade")
 - 32G USB3 flash drive
+![USB Flash](img/usbflash.png?raw=true "USB Flash")
