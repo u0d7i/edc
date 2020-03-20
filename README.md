@@ -10,8 +10,11 @@ There are several organisational levels:
 For keychain, mini carabiners are used to easily attach/detach stuff:
 ![Carabiners](img/carabiners.png?raw=true "Carabiners")
 
-"Sets" are organised in Oxford cloth zipper bags:
+Functional "sets" are organised in Oxford cloth zipper bags:
 ![Zipper](img/zipper.png?raw=true "Zipper")
+
+Handbag is actually "tactical shoulder bag" like this:
+![Bag](img/bag.png?raw=true "Bag")
 
 ## Keychain
 
@@ -21,3 +24,5 @@ For keychain, mini carabiners are used to easily attach/detach stuff:
 ![Zip Blade](img/zipblade.png?raw=true "Zip Blade")
 - 32G USB3 flash drive
 ![USB Flash](img/usbflash.png?raw=true "USB Flash")
+
+## Pocket
