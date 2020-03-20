@@ -26,3 +26,6 @@ Handbag is actually "tactical shoulder bag" like this:
 ![USB Flash](img/usbflash.png?raw=true "USB Flash")
 
 ## Pocket
+
+- pocket linux qwerti terminal - Nokia N900:
+![N900](img/n900.png?raw=true "N900")
