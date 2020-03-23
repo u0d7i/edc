@@ -27,5 +27,5 @@ Handbag is actually "tactical shoulder bag" like this:
 
 ## Pocket
 
-- pocket linux qwerti terminal - Nokia N900:
+- pocket linux qwerty terminal - Nokia N900:
 ![N900](img/n900.png?raw=true "N900")
